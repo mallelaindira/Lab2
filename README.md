@@ -29,4 +29,4 @@ Continuing with our Lab1 logistic regression on student data to predict the like
 - The AUC (Area Under the Curve) value is calculated to quantify the overall performance of the model.
 
 ## Conclusion:
-The provided code demonstrates the process of training, evaluating, and interpreting a logistic regression model for predicting student withdrawals. Through visualizations and performance metrics, it offers insights into the model's effectiveness and aids in understanding its predictive capabilities.
+This simple code demonstrates the sequential steps followed viz training, evaluating, and interpreting a logistic regression model for predicting student withdrawals. Through visualizations and performance metrics, it offers insights into the model's effectiveness and aids in understanding its predictive capabilities.
