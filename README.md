@@ -16,9 +16,12 @@ Continuing with our Lab1 logistic regression on student data to predict the like
 ## Confusion Matrix Visualization:
 - The confusion matrix is visualized as a chart using ggplot2. It provides insights into the model's classification accuracy and errors.
 
+
+
 ## Sigmoid Curve Visualization:
 - A sigmoid curve plot is generated to visualize the distribution of predicted probabilities output by the logistic regression model.
 - The curve illustrates the model's confidence in predicting student withdrawals based on their characteristics.
+- ![Image Description](https://github.com/mallelaindira/Lab2/blob/main/6b384a4c-bbeb-478a-80af-c7553b6d8d55.png)
 
 ## Model Performance Metrics:
 - Model performance metrics including accuracy, precision, recall, F1 score, and specificity are extracted from the confusion matrix and visualized as a bar chart.
